@@ -1,0 +1,12 @@
+name: Shinywands
+version: '${project.version}'
+main: shinywands.shinywands.Shinywands
+api-version: 1.19
+authors: [ Fender ]
+description: A magic wand plugin!
+website: https://github.com/Fendernt
+
+commands:
+  shinywand:
+    description: Gives you a shiny wand.
+    usage: /<command>
